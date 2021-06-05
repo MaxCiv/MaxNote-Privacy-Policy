@@ -20,6 +20,12 @@ Link to privacy policy of third party service providers used by the app
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
+**Google Drive**
+
+Your data can be reserved (backup making) with your own cloud account at Google Drive. Thus you can easily restore your data from a cloud to a new phone or tablet (in case of loss or upgrade). Your phone and tablet could be also synchronized between each other via a cloud. Please visit Google’s privacy policy to learn how Google treats your personal data and protects your privacy when using Google Services (Google Drive in this case).
+
+To make backups, we ask to give the application access to your Google Drive account. The application creates files with notes on Google Drive (in your account) and reads the files created by it before.
+
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
@@ -61,4 +67,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at maxciv.help@gmail.com.
 
-Last updated: February 02, 2020
+Last updated: June 05, 2021
