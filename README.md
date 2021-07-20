@@ -36,6 +36,10 @@ Cookies are files with a small amount of data that are commonly used as anonymou
 
 This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
+**Donations**
+
+You can make a donation for the development of the application anonymously or using your Google account. When donating anonymously, no personal data will be collected from you. Donating with a Google account will use your display name and email address. The display name will be visible to everyone in the application, and the email will not be visible to anyone and will only be used to identify you.
+
 **Service Providers**
 
 I may employ third-party companies and individuals due to the following reasons:
@@ -67,4 +71,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at maxciv.help@gmail.com.
 
-Last updated: June 05, 2021
+Last updated: July 20, 2021
